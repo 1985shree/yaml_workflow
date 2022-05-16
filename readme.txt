@@ -9,7 +9,7 @@ and summary. Also the flow section should mention this:
 flow:
   - weighing
   - stirring
-  - newstep
+  - newtask
   - summary
 ```
 
